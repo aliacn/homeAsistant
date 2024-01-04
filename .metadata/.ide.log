@@ -21509,3 +21509,768 @@
 2024-01-04 17:49:47,418 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1725mS.
 2024-01-04 17:49:47,421 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
 2024-01-04 17:49:47,422 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 18:22:32,850 [INFO] I2cTimingTraitement:330 - 0x2000090E
+2024-01-04 18:22:50,007 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 18:22:50,098 [INFO] I2cTimingTraitement:330 - 0x00000001
+2024-01-04 18:22:50,156 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 18:22:51,673 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 18:22:51,718 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 18:22:51,807 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 18:22:55,945 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 18:22:55,980 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 18:22:59,807 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 18:22:59,841 [INFO] I2cTimingTraitement:330 - 0x2000090E
+2024-01-04 18:22:59,884 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 18:23:01,500 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 18:23:01,534 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 18:23:01,576 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 18:23:04,972 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 679569912 Bytes (1073741824)
+2024-01-04 18:23:06,971 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 700019192 Bytes (1073741824)
+2024-01-04 18:23:08,960 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 749302264 Bytes (1073741824)
+2024-01-04 18:23:09,151 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-04 18:23:09,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-04 18:23:09,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 18:23:09,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-04 18:23:09,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-04 18:23:09,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-04 18:23:09,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-04 18:23:09,152 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-04 18:23:09,153 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-04 18:23:09,524 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-04 18:23:09,638 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-04 18:23:09,736 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-04 18:23:09,801 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-04 18:23:10,028 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-04 18:23:10,146 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-04 18:23:10,147 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-04 18:23:10,198 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-04 18:23:10,201 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-04 18:23:10,290 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-04 18:23:10,292 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-04 18:23:10,365 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-04 18:23:10,368 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-04 18:23:10,450 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-04 18:23:10,464 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-04 18:23:10,464 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-04 18:23:10,468 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-04 18:23:10,534 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-04 18:23:10,535 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-04 18:23:10,627 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-04 18:23:11,156 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 54mS.
+2024-01-04 18:23:11,161 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-04 18:23:11,337 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-04 18:23:12,910 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1746mS.
+2024-01-04 18:23:12,912 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-01-04 18:23:12,915 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 18:24:35,275 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,276 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,278 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,278 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,279 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,279 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,279 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,279 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,279 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,279 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,280 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,280 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,280 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,280 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,280 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,280 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,280 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,280 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,281 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,281 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,281 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,281 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,281 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,281 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,281 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,281 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,281 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,281 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,282 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,282 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,282 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,282 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,282 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,282 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,352 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,352 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,353 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,353 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,353 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,353 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,354 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,354 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,410 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,410 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,411 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,411 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,411 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,411 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,412 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,412 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,412 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,412 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,412 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,412 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,413 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,413 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,413 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,413 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,414 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,414 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,414 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,414 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,414 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,414 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,414 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,414 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,414 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,414 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:24:35,456 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,456 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,457 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,457 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,457 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,457 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,458 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:24:35,458 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,060 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,062 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,078 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,078 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,078 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,079 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,079 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,079 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,079 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,079 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,079 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,079 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,079 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,080 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,080 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,080 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,080 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,080 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,080 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,080 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,080 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,080 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,080 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,081 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,081 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,081 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,081 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,081 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,081 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,081 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,081 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,153 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,153 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,153 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,153 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,154 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,154 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,155 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,155 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,245 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,245 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,246 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,246 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,246 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,246 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,246 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,246 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,246 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,246 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,247 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,247 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,247 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,247 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,247 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,247 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,247 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,247 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,247 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,247 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,248 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,248 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,248 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,248 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,248 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,248 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,248 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,248 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,248 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,249 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,249 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,249 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,249 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,249 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,280 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,280 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,280 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,281 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,281 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,281 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,282 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,282 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,534 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,534 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,535 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,535 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,535 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,536 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,536 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,536 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,536 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,536 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,536 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,536 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,536 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,537 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,537 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,537 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,537 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,537 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,537 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,537 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,537 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,537 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,538 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,538 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,538 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,538 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,538 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,538 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,538 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,538 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,538 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,538 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,539 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,539 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,579 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,580 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,580 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,581 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,581 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,581 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,582 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,582 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,625 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,625 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,626 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,626 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,626 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,626 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,627 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,627 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,627 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,627 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,627 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,627 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,627 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,627 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,628 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,628 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,628 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,628 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,629 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,629 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,629 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:02,675 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,675 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,676 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,676 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,676 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,676 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,677 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 18:46:02,677 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 18:46:10,096 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART1]
+2024-01-04 18:47:02,065 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART1]
+2024-01-04 18:47:02,404 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART1]
+2024-01-04 18:55:03,009 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 19:01:26,889 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 19:01:29,454 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 493796000 Bytes (1073741824)
+2024-01-04 19:01:32,545 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 536859952 Bytes (1073741824)
+2024-01-04 19:01:34,682 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 584045872 Bytes (1073741824)
+2024-01-04 19:01:34,889 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-04 19:01:34,889 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-04 19:01:34,889 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 19:01:34,889 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-04 19:01:34,889 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-04 19:01:34,889 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-04 19:01:34,889 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-04 19:01:34,889 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-04 19:01:34,890 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-04 19:01:35,237 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-04 19:01:35,344 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-04 19:01:35,432 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-04 19:01:35,500 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-04 19:01:35,821 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-04 19:01:35,939 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-04 19:01:35,941 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-04 19:01:35,991 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-04 19:01:35,995 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-04 19:01:36,081 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-04 19:01:36,083 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-04 19:01:36,201 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-04 19:01:36,205 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-04 19:01:36,259 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-04 19:01:36,285 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-04 19:01:36,285 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-04 19:01:36,287 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-04 19:01:36,352 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-04 19:01:36,354 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-04 19:01:36,447 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-04 19:01:36,777 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 58mS.
+2024-01-04 19:01:36,780 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-04 19:01:36,929 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-04 19:01:38,345 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1563mS.
+2024-01-04 19:01:38,347 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-01-04 19:01:38,348 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 19:35:30,304 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, TIM1, USART1]
+2024-01-04 19:36:10,261 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, TIM1, USART1]
+2024-01-04 19:36:10,807 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, TIM1, USART1]
+2024-01-04 19:36:22,167 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 19:36:40,488 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 19:37:03,074 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 19:37:03,358 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 19:37:13,605 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 19:37:13,913 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 19:37:16,478 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, TIM1, USART1]
+2024-01-04 19:37:25,385 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 941435352 Bytes (1073741824)
+2024-01-04 19:37:27,488 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 394567320 Bytes (1073741824)
+2024-01-04 19:37:30,312 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 483318984 Bytes (1073741824)
+2024-01-04 19:37:30,525 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-04 19:37:30,525 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-04 19:37:30,525 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 19:37:30,525 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-04 19:37:30,526 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-04 19:37:30,526 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-04 19:37:30,526 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-04 19:37:30,526 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-04 19:37:30,530 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-04 19:37:30,870 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-04 19:37:30,984 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-04 19:37:31,089 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-04 19:37:31,155 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-04 19:37:31,445 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-04 19:37:31,561 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-04 19:37:31,564 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-04 19:37:31,615 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-04 19:37:31,619 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-04 19:37:31,773 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-04 19:37:31,775 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-04 19:37:31,825 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-04 19:37:31,829 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-04 19:37:31,883 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-04 19:37:31,899 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-04 19:37:31,900 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-04 19:37:31,901 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-04 19:37:31,965 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-04 19:37:31,967 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-04 19:37:32,063 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-04 19:37:32,408 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 65mS.
+2024-01-04 19:37:32,411 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-04 19:37:32,565 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-04 19:37:34,084 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1670mS.
+2024-01-04 19:37:34,087 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-01-04 19:37:34,089 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 20:02:17,170 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 20:13:53,335 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, TIM1, USART1]
+2024-01-04 20:14:19,397 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 407449168 Bytes (1073741824)
+2024-01-04 20:14:21,144 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 425051152 Bytes (1073741824)
+2024-01-04 20:14:22,560 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 463282768 Bytes (1073741824)
+2024-01-04 20:14:22,808 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-04 20:14:22,808 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-04 20:14:22,808 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 20:14:22,808 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-04 20:14:22,808 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-04 20:14:22,808 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-04 20:14:22,808 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-04 20:14:22,808 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-04 20:14:22,809 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-04 20:14:22,944 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-04 20:14:23,034 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-04 20:14:23,090 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-04 20:14:23,152 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-04 20:14:23,775 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-04 20:14:23,993 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-04 20:14:23,994 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-04 20:14:24,047 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-04 20:14:24,050 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-04 20:14:24,138 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-04 20:14:24,140 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-04 20:14:24,190 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-04 20:14:24,193 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-04 20:14:24,248 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-04 20:14:24,262 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-04 20:14:24,262 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-04 20:14:24,264 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-04 20:14:24,329 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-04 20:14:24,331 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-04 20:14:24,744 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-04 20:14:25,317 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 69mS.
+2024-01-04 20:14:25,322 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-04 20:14:25,516 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-04 20:14:27,021 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1697mS.
+2024-01-04 20:14:27,024 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-01-04 20:14:27,026 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 20:20:29,190 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 20:20:40,403 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 20:20:55,794 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 629208584 Bytes (1073741824)
+2024-01-04 20:20:57,402 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 646512136 Bytes (1073741824)
+2024-01-04 20:20:59,642 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 680066568 Bytes (1073741824)
+2024-01-04 20:20:59,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-04 20:20:59,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-04 20:20:59,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 20:20:59,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-04 20:20:59,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-04 20:20:59,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-04 20:20:59,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-04 20:20:59,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-04 20:20:59,828 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-04 20:21:00,213 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-04 20:21:00,298 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-04 20:21:00,386 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-04 20:21:00,448 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-04 20:21:00,739 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-04 20:21:00,819 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-04 20:21:00,821 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-04 20:21:00,875 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-04 20:21:00,879 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-04 20:21:00,966 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-04 20:21:00,968 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-04 20:21:01,017 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-04 20:21:01,021 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-04 20:21:01,110 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-04 20:21:01,149 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-04 20:21:01,149 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-04 20:21:01,151 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-04 20:21:01,208 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-04 20:21:01,209 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-04 20:21:01,300 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-04 20:21:01,842 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 58mS.
+2024-01-04 20:21:01,853 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-04 20:21:02,029 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-04 20:21:03,441 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1586mS.
+2024-01-04 20:21:03,442 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 20:21:03,444 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 20:41:55,654 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, TIM1, USART1]
+2024-01-04 20:44:18,538 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, TIM1, USART1]
+2024-01-04 20:44:18,910 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, TIM1, USART1]
+2024-01-04 20:45:11,689 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,690 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,703 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,703 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,703 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,703 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,703 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,703 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,703 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,704 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,704 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,704 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,705 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,705 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,705 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,705 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,705 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,705 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,705 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,705 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,705 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,705 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,706 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,706 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,706 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,706 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,706 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,706 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,706 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,706 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,777 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,777 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,778 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,779 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,779 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,779 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,780 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,780 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,874 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,874 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,875 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,875 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,875 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,875 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,875 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,876 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,876 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,876 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,876 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,876 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,876 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,876 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,876 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,877 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,877 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,877 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,877 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,877 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,877 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,877 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,877 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,877 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,878 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,878 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,878 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,878 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,878 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,878 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,878 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,878 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,878 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,878 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:45:11,944 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,944 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,946 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,947 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,947 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,948 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,949 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 20:45:11,949 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 20:46:07,533 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 362632888 Bytes (1073741824)
+2024-01-04 20:46:08,544 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 379821104 Bytes (1073741824)
+2024-01-04 20:46:10,170 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 414948384 Bytes (1073741824)
+2024-01-04 20:46:10,366 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-04 20:46:10,366 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-04 20:46:10,366 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 20:46:10,366 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-04 20:46:10,366 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-04 20:46:10,366 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-04 20:46:10,366 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-04 20:46:10,366 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-04 20:46:10,367 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-04 20:46:10,501 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-04 20:46:10,614 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-04 20:46:10,668 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-04 20:46:10,731 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-04 20:46:10,988 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-04 20:46:11,189 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-04 20:46:11,191 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-04 20:46:11,242 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-04 20:46:11,245 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-04 20:46:11,331 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-04 20:46:11,332 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-04 20:46:11,378 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-04 20:46:11,382 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-04 20:46:11,433 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-04 20:46:11,446 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-04 20:46:11,447 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-04 20:46:11,449 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-04 20:46:11,512 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-04 20:46:11,514 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-04 20:46:11,607 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-04 20:46:12,168 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 67mS.
+2024-01-04 20:46:12,175 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-04 20:46:12,368 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-04 20:46:13,879 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1701mS.
+2024-01-04 20:46:13,882 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 2mS.
+2024-01-04 20:46:13,886 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 20:50:06,343 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 21:33:30,411 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 21:33:30,892 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 21:33:34,531 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 21:33:34,867 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 21:33:42,652 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 791460488 Bytes (1073741824)
+2024-01-04 21:33:44,727 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 810967256 Bytes (1073741824)
+2024-01-04 21:33:47,633 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 877549784 Bytes (1073741824)
+2024-01-04 21:33:47,864 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-04 21:33:47,864 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-04 21:33:47,864 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 21:33:47,864 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-04 21:33:47,864 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-04 21:33:47,864 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-04 21:33:47,864 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-04 21:33:47,864 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-04 21:33:47,865 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-04 21:33:48,182 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-04 21:33:48,306 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-04 21:33:48,409 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-04 21:33:48,481 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-04 21:33:48,773 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-04 21:33:48,897 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-04 21:33:48,899 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-04 21:33:48,950 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-04 21:33:48,955 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-04 21:33:49,115 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-04 21:33:49,117 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-04 21:33:49,165 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-04 21:33:49,169 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-04 21:33:49,222 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-04 21:33:49,237 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-04 21:33:49,238 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-04 21:33:49,240 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-04 21:33:49,304 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-04 21:33:49,305 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-04 21:33:49,397 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-04 21:33:49,949 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 65mS.
+2024-01-04 21:33:49,955 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-04 21:33:50,123 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-04 21:33:51,547 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1589mS.
+2024-01-04 21:33:51,551 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-01-04 21:33:51,553 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 21:35:58,694 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 21:35:59,046 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 21:36:03,221 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 21:36:03,551 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-04 21:36:06,430 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 371841520 Bytes (1073741824)
+2024-01-04 21:36:08,341 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 390934056 Bytes (1073741824)
+2024-01-04 21:36:10,046 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 372956752 Bytes (1073741824)
+2024-01-04 21:36:10,268 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-04 21:36:10,268 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-04 21:36:10,268 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 21:36:10,268 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-04 21:36:10,268 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-04 21:36:10,268 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-04 21:36:10,268 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-04 21:36:10,268 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-04 21:36:10,269 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-04 21:36:10,581 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-04 21:36:10,661 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-04 21:36:10,735 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-04 21:36:10,795 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-04 21:36:11,104 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-04 21:36:11,175 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-04 21:36:11,177 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-04 21:36:11,228 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-04 21:36:11,231 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-04 21:36:11,313 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-04 21:36:11,314 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-04 21:36:11,363 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-04 21:36:11,366 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-04 21:36:11,420 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-04 21:36:11,433 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-04 21:36:11,434 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-04 21:36:11,435 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-04 21:36:11,491 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-04 21:36:11,492 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-04 21:36:11,583 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-04 21:36:12,170 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 41mS.
+2024-01-04 21:36:12,176 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-04 21:36:12,347 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-04 21:36:14,451 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2273mS.
+2024-01-04 21:36:14,453 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-01-04 21:36:14,457 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 21:37:30,832 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, TIM1, USART1]
+2024-01-04 21:38:00,451 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 771779760 Bytes (1073741824)
+2024-01-04 21:38:02,104 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 790250160 Bytes (1073741824)
+2024-01-04 21:38:03,897 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 824166360 Bytes (1073741824)
+2024-01-04 21:38:04,123 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-04 21:38:04,123 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-04 21:38:04,123 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 21:38:04,123 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-04 21:38:04,156 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-04 21:38:04,156 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-04 21:38:04,156 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-04 21:38:04,156 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-04 21:38:04,158 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-04 21:38:04,368 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-04 21:38:04,618 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-04 21:38:04,730 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-04 21:38:04,799 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-04 21:38:05,087 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-04 21:38:05,154 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-04 21:38:05,155 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-04 21:38:05,206 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-04 21:38:05,210 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-04 21:38:05,290 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-04 21:38:05,292 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-04 21:38:05,339 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-04 21:38:05,343 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-04 21:38:05,395 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-04 21:38:05,411 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-04 21:38:05,411 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-04 21:38:05,413 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-04 21:38:05,470 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-04 21:38:05,471 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-04 21:38:05,558 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-04 21:38:06,089 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 40mS.
+2024-01-04 21:38:06,095 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-04 21:38:06,272 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-04 21:38:07,509 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1413mS.
+2024-01-04 21:38:07,510 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 21:38:07,512 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 21:48:37,034 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 21:48:42,276 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 592940656 Bytes (1073741824)
+2024-01-04 21:48:44,070 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 611032784 Bytes (1073741824)
+2024-01-04 21:48:45,336 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 675251824 Bytes (1073741824)
+2024-01-04 21:48:45,480 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-04 21:48:45,480 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-04 21:48:45,480 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 21:48:45,480 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 21:48:45,480 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-04 21:48:45,481 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-04 21:48:45,481 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-04 21:48:45,481 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-04 21:48:45,481 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-04 21:48:45,481 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-04 21:48:45,730 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-04 21:48:45,814 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-04 21:48:46,100 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-04 21:48:46,208 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-04 21:48:46,619 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-04 21:48:46,752 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-04 21:48:46,753 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-04 21:48:46,804 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-04 21:48:46,808 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-04 21:48:46,901 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-04 21:48:46,902 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-04 21:48:46,951 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-04 21:48:46,954 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-04 21:48:47,007 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-04 21:48:47,020 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-04 21:48:47,020 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-04 21:48:47,023 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-04 21:48:47,089 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-04 21:48:47,091 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-04 21:48:47,193 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-04 21:48:47,719 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 49mS.
+2024-01-04 21:48:47,725 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-04 21:48:47,895 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-04 21:48:49,244 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1517mS.
+2024-01-04 21:48:49,246 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-01-04 21:48:49,247 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.

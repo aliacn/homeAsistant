@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;homeAsistant/Core/Src/hcsr04.c&apos;" deleteContents="false" description="Delete resource &apos;homeAsistant/Core/Src/hcsr04.c&apos;" element1="/homeAsistant/Core/Src/hcsr04.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1704388182174"/>&#x0A;<refactoring comment="Delete resource &apos;homeAsistant/Core/Inc/hcsr04.h&apos;" deleteContents="false" description="Delete resource &apos;homeAsistant/Core/Inc/hcsr04.h&apos;" element1="/homeAsistant/Core/Inc/hcsr04.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1704388189524"/>
+</session>
