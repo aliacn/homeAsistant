@@ -1,0 +1,9 @@
+../Core/Src/temp_sensor.c:14:6:temperature_sensor_init	1
+../Core/Src/temp_sensor.c:18:6:GPIO_WritePin	1
+../Core/Src/temp_sensor.c:22:15:GPIO_ReadPin	1
+../Core/Src/temp_sensor.c:26:6:set_GPIO_input	1
+../Core/Src/temp_sensor.c:34:6:set_GPIO_output	1
+../Core/Src/temp_sensor.c:43:6:delay	2
+../Core/Src/temp_sensor.c:48:19:get_temperature_sensor_data	13
+../Core/Src/temp_sensor.c:103:9:get_temperature_sensor_temperature	1
+../Core/Src/temp_sensor.c:107:9:get_temperature_sensor_rel_humidity	1
