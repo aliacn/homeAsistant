@@ -143,18 +143,24 @@ int main(void)
 
 	  	Lcd_cursor(&lcd,0,14);
 	  	Lcd_string(&lcd,"OF");
-	  	HAL_GPIO_WritePin(LED_RED_GPIO_Port,LED_RED_Pin,GPIO_PIN_RESET);
-	  	HAL_GPIO_WritePin(LED_GREEN_GPIO_Port,LED_GREEN_Pin,GPIO_PIN_SET);
+
 	  	if (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_1)) // if the pin is HIGH
 	  	  {
 	  		 Lcd_cursor(&lcd,0,13);
 	  		 Lcd_string(&lcd," ON");
-	  		 HAL_GPIO_WritePin(LED_GREEN_GPIO_Port,LED_GREEN_Pin,GPIO_PIN_RESET);
-	  		 HAL_GPIO_WritePin(LED_RED_GPIO_Port,LED_RED_Pin,GPIO_PIN_SET);
-	  		 HAL_Delay(500);
+	  		 HAL_GPIO_WritePin(LED_GREEN_GPIO_Port,LED_GREEN_Pin,GPIO_PIN_SET);
+	  		 HAL_GPIO_WritePin(LED_RED_GPIO_Port,LED_RED_Pin,GPIO_PIN_RESET);
+	  		 HAL_Delay(2000);
 	  	  }
+	  	else
+	  	{
+	  		HAL_GPIO_WritePin(LED_GREEN_GPIO_Port,LED_GREEN_Pin,GPIO_PIN_SET);
+	  		HAL_GPIO_WritePin(LED_RED_GPIO_Port,LED_RED_Pin,GPIO_PIN_RESET);
 
-	  	HAL_Delay(50);
+	  	}
+
+
+	  	HAL_Delay(250);
 
 
 

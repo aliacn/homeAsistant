@@ -21217,3 +21217,295 @@
 2024-01-04 17:18:38,654 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1429mS.
 2024-01-04 17:18:38,655 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
 2024-01-04 17:18:38,656 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 17:24:16,102 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-04 17:24:16,164 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,164 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,171 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,171 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,171 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,171 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,172 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,172 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,172 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,172 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,172 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,172 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,172 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,172 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,173 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,173 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,173 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,173 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,173 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,173 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,173 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,173 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,174 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,174 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,174 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,174 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,174 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,174 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,174 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,174 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,174 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,175 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,175 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,175 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:16,224 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,224 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,225 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,225 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,225 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,225 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,226 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:24:16,226 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:24:21,324 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 667523168 Bytes (1073741824)
+2024-01-04 17:24:23,117 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 687972448 Bytes (1073741824)
+2024-01-04 17:24:24,607 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 724672608 Bytes (1073741824)
+2024-01-04 17:24:24,785 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-04 17:24:24,785 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-04 17:24:24,785 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 17:24:24,785 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-04 17:24:24,785 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-04 17:24:24,785 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-04 17:24:24,785 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-04 17:24:24,785 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-04 17:24:24,786 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-04 17:24:25,011 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-04 17:24:25,094 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-04 17:24:25,375 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-04 17:24:25,465 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-04 17:24:25,728 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-04 17:24:25,793 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-04 17:24:25,795 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-04 17:24:25,844 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-04 17:24:25,847 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-04 17:24:25,926 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-04 17:24:25,928 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-04 17:24:25,976 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-04 17:24:25,979 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-04 17:24:26,033 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-04 17:24:26,048 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-04 17:24:26,048 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-04 17:24:26,050 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-04 17:24:26,103 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-04 17:24:26,104 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-04 17:24:26,190 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-04 17:24:26,687 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 39mS.
+2024-01-04 17:24:26,692 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-04 17:24:26,877 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-04 17:24:28,123 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1429mS.
+2024-01-04 17:24:28,125 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 17:24:28,127 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-04 17:46:02,774 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,778 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,794 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,794 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,795 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,795 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,795 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,795 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,795 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,795 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,795 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,795 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,796 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,796 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,796 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,796 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,796 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,796 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,796 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,796 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,797 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,797 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,797 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,797 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,797 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,797 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,797 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,797 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,797 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,797 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,798 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,798 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,798 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,798 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:02,901 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,902 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,903 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,903 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,903 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,903 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,905 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:02,905 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,131 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,132 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,140 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,140 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,140 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,140 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,140 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,140 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,140 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,140 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,141 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,141 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,141 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,141 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,141 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,141 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,141 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,141 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,142 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,142 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,142 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,142 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,142 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,142 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,142 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,142 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,142 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,142 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,143 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,143 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,143 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,143 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,143 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,143 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,183 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,183 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,184 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,184 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,184 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,184 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,185 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,475 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,475 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,477 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,478 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,478 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,478 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,479 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,479 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,479 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,479 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,479 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,480 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,480 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,480 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,480 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,480 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,480 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,480 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,480 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,480 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,526 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,526 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,526 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,526 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,527 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,527 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,527 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,527 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,581 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,581 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,581 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,581 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,582 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,582 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,582 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,582 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,582 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,582 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,582 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,582 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,583 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,583 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,583 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,583 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,583 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,583 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,583 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,583 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,584 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,584 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,584 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,584 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,584 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,584 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,584 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,584 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,584 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,584 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,584 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,585 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,585 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,585 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:03,615 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,615 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,616 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,616 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,616 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,616 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,617 [INFO] ADCParametersView:116 -                SequencerNbRanks 1 : true
+2024-01-04 17:46:03,617 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-01-04 17:46:09,075 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART1]
+2024-01-04 17:46:45,048 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART1]
+2024-01-04 17:46:45,587 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART1]
+2024-01-04 17:47:55,316 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART1]
+2024-01-04 17:47:55,666 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, RCC, SYS, USART1]
+2024-01-04 17:49:39,723 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 362826696 Bytes (1066401792)
+2024-01-04 17:49:42,339 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 388913784 Bytes (1066401792)
+2024-01-04 17:49:43,686 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 435676112 Bytes (1066401792)
+2024-01-04 17:49:43,867 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-04 17:49:43,867 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-04 17:49:43,867 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-04 17:49:43,867 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-04 17:49:43,868 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-04 17:49:43,868 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-04 17:49:43,868 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-04 17:49:43,868 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-04 17:49:43,868 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-04 17:49:43,998 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-04 17:49:44,099 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-04 17:49:44,156 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-04 17:49:44,218 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-04 17:49:44,451 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-04 17:49:44,659 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-04 17:49:44,661 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-04 17:49:44,713 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-04 17:49:44,716 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-04 17:49:44,807 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-04 17:49:44,808 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-04 17:49:44,857 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-04 17:49:44,860 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-04 17:49:44,914 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-04 17:49:44,927 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-04 17:49:44,927 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-04 17:49:44,929 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-04 17:49:44,994 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-04 17:49:44,997 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-04 17:49:45,087 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-04 17:49:45,685 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 66mS.
+2024-01-04 17:49:45,691 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-04 17:49:45,865 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-04 17:49:47,418 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1725mS.
+2024-01-04 17:49:47,421 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-01-04 17:49:47,422 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
