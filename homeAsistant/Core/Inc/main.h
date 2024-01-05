@@ -65,6 +65,8 @@ void Error_Handler(void);
 #define LED_GREEN_GPIO_Port GPIOC
 #define LED_RED_Pin GPIO_PIN_0
 #define LED_RED_GPIO_Port GPIOB
+#define RelayModule_Pin GPIO_PIN_10
+#define RelayModule_GPIO_Port GPIOA
 #define ECHO_Pin GPIO_PIN_8
 #define ECHO_GPIO_Port GPIOB
 #define TRIG_Pin GPIO_PIN_9

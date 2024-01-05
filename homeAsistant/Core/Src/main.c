@@ -162,6 +162,16 @@ int main(void)
 	  	Lcd_cursor(&lcd,1,7);
 	  	Lcd_int(&lcd,lightValue);
 
+	  	if (lightValue>2800)
+	  	{
+	  		HAL_GPIO_WritePin(GPIOA,GPIO_PIN_10,GPIO_PIN_SET);
+	  	}
+	  	else
+	  	{
+	  		HAL_GPIO_WritePin(GPIOA,GPIO_PIN_10,GPIO_PIN_RESET);
+	  	}
+
+
 	  	Lcd_cursor(&lcd,0,13);
 	  	Lcd_string(&lcd,"OFF");
 	  	HAL_GPIO_WritePin(LED_RED_GPIO_Port,LED_RED_Pin,GPIO_PIN_SET);
@@ -192,7 +202,7 @@ int main(void)
 	   	Lcd_cursor(&lcd,0,3);
 	   	Lcd_int(&lcd,distance);
 
-	   	if(distance<200)
+	   	if(distance==200)
 	   	    {
 	   	      __HAL_TIM_SET_AUTORELOAD(&htim2, 50*2);
 	   	      __HAL_TIM_SET_COMPARE(&htim2,TIM_CHANNEL_3, 50);
@@ -545,11 +555,11 @@ static void MX_GPIO_Init(void)
   HAL_GPIO_WritePin(GPIOC, LED_BLUE_Pin|LED_GREEN_Pin|GPIO_PIN_7|GPIO_PIN_9, GPIO_PIN_RESET);
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_2|GPIO_PIN_9, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_2|GPIO_PIN_9|RelayModule_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOB, LED_RED_Pin|GPIO_PIN_14|GPIO_PIN_15|GPIO_PIN_4
-                          |GPIO_PIN_5|GPIO_PIN_6|TRIG_Pin, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(GPIOB, LED_RED_Pin|GPIO_PIN_14|GPIO_PIN_15|GPIO_PIN_3
+                          |GPIO_PIN_4|GPIO_PIN_5|GPIO_PIN_6|TRIG_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pins : PC14 PC8 */
   GPIO_InitStruct.Pin = GPIO_PIN_14|GPIO_PIN_8;
@@ -570,8 +580,8 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
 
-  /*Configure GPIO pins : PA2 PA9 */
-  GPIO_InitStruct.Pin = GPIO_PIN_2|GPIO_PIN_9;
+  /*Configure GPIO pins : PA2 PA9 RelayModule_Pin */
+  GPIO_InitStruct.Pin = GPIO_PIN_2|GPIO_PIN_9|RelayModule_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
@@ -584,10 +594,10 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(LED_RED_GPIO_Port, &GPIO_InitStruct);
 
-  /*Configure GPIO pins : PB14 PB15 PB4 PB5
-                           PB6 TRIG_Pin */
-  GPIO_InitStruct.Pin = GPIO_PIN_14|GPIO_PIN_15|GPIO_PIN_4|GPIO_PIN_5
-                          |GPIO_PIN_6|TRIG_Pin;
+  /*Configure GPIO pins : PB14 PB15 PB3 PB4
+                           PB5 PB6 TRIG_Pin */
+  GPIO_InitStruct.Pin = GPIO_PIN_14|GPIO_PIN_15|GPIO_PIN_3|GPIO_PIN_4
+                          |GPIO_PIN_5|GPIO_PIN_6|TRIG_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
@@ -600,11 +610,11 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(GPIOC, &GPIO_InitStruct);
 
-  /*Configure GPIO pins : PB3 ECHO_Pin */
-  GPIO_InitStruct.Pin = GPIO_PIN_3|ECHO_Pin;
+  /*Configure GPIO pin : ECHO_Pin */
+  GPIO_InitStruct.Pin = ECHO_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
-  HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);
+  HAL_GPIO_Init(ECHO_GPIO_Port, &GPIO_InitStruct);
 
 /* USER CODE BEGIN MX_GPIO_Init_2 */
 /* USER CODE END MX_GPIO_Init_2 */
