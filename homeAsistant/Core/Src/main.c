@@ -119,7 +119,7 @@ int main(void)
   HAL_TIM_Base_Start(&htim1);
   HAL_GPIO_WritePin(TRIG_PORT, TRIG_PIN, GPIO_PIN_RESET);
 
-  HAL_TIM_PWM_Stop(&htim2, TIM_CHANNEL_3);
+  HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_3);
 
   //HAL_ADC_Start (&hadc1);
 
@@ -208,8 +208,6 @@ int main(void)
 
 	   	if (distance <= 5)
 	   	    {
-	   	        HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_3);
-
 	   	        for (x = 50; x < 100; x += 5)
 	   	        {
 	   	            __HAL_TIM_SET_AUTORELOAD(&htim2, x * 3);
@@ -219,7 +217,7 @@ int main(void)
 	   	    }
 	   	    else
 	   	    {
-	   	        HAL_TIM_PWM_Stop(&htim2, TIM_CHANNEL_3);
+	   	        __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_3, 0);
 	   	    }
 
 
@@ -483,11 +481,11 @@ static void MX_TIM2_Init(void)
 
   /* USER CODE END TIM2_Init 1 */
   htim2.Instance = TIM2;
-  htim2.Init.Prescaler = 127;
+  htim2.Init.Prescaler = 300;
   htim2.Init.CounterMode = TIM_COUNTERMODE_UP;
-  htim2.Init.Period = 20;
+  htim2.Init.Period = 10;
   htim2.Init.ClockDivision = TIM_CLOCKDIVISION_DIV1;
-  htim2.Init.AutoReloadPreload = TIM_AUTORELOAD_PRELOAD_DISABLE;
+  htim2.Init.AutoReloadPreload = TIM_AUTORELOAD_PRELOAD_ENABLE;
   if (HAL_TIM_Base_Init(&htim2) != HAL_OK)
   {
     Error_Handler();
@@ -510,7 +508,7 @@ static void MX_TIM2_Init(void)
   sConfigOC.OCMode = TIM_OCMODE_PWM1;
   sConfigOC.Pulse = 0;
   sConfigOC.OCPolarity = TIM_OCPOLARITY_HIGH;
-  sConfigOC.OCFastMode = TIM_OCFAST_DISABLE;
+  sConfigOC.OCFastMode = TIM_OCFAST_ENABLE;
   if (HAL_TIM_PWM_ConfigChannel(&htim2, &sConfigOC, TIM_CHANNEL_3) != HAL_OK)
   {
     Error_Handler();

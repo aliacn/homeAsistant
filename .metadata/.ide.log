@@ -198,3 +198,132 @@
 2024-01-05 11:31:14,517 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1415mS.
 2024-01-05 11:31:14,520 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
 2024-01-05 11:31:14,522 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-05 15:44:02,399 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x499,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-05 15:50:28,533 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-05 15:50:36,421 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-05 15:52:23,378 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 855292776 Bytes (1073741824)
+2024-01-05 15:52:24,744 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 874167144 Bytes (1073741824)
+2024-01-05 15:52:26,188 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 907199336 Bytes (1073741824)
+2024-01-05 15:52:26,368 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-05 15:52:26,368 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-05 15:52:26,369 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-05 15:52:26,369 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-05 15:52:26,369 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-05 15:52:26,369 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-05 15:52:26,369 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-05 15:52:26,369 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-05 15:52:26,369 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-05 15:52:26,369 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-05 15:52:26,816 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-05 15:52:26,907 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-05 15:52:26,973 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-05 15:52:27,040 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-05 15:52:27,480 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-05 15:52:27,591 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-05 15:52:27,593 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-05 15:52:27,640 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-05 15:52:27,643 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-05 15:52:27,729 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-05 15:52:27,730 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-05 15:52:27,776 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-05 15:52:27,779 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-05 15:52:27,831 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-05 15:52:27,844 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-05 15:52:27,844 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-05 15:52:27,846 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-05 15:52:27,908 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-05 15:52:27,909 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-05 15:52:28,005 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-05 15:52:28,484 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 64mS.
+2024-01-05 15:52:28,491 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-05 15:52:28,672 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-05 15:52:30,116 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1623mS.
+2024-01-05 15:52:30,119 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-05 15:52:30,121 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-05 15:53:48,591 [INFO] I2cTimingTraitement:330 - 0x0000020B
+2024-01-05 15:53:52,602 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x516,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-05 16:37:34,189 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-05 16:37:56,061 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-05 16:38:00,168 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 738349176 Bytes (1073741824)
+2024-01-05 16:38:01,691 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 816414960 Bytes (1073741824)
+2024-01-05 16:38:02,953 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 849155064 Bytes (1073741824)
+2024-01-05 16:38:03,221 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-05 16:38:03,221 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-05 16:38:03,221 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-05 16:38:03,221 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-05 16:38:03,221 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-05 16:38:03,222 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-05 16:38:03,222 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-05 16:38:03,222 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-05 16:38:03,222 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-05 16:38:03,223 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-05 16:38:03,566 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-05 16:38:03,667 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-05 16:38:03,765 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-05 16:38:03,834 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-05 16:38:04,294 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-05 16:38:04,409 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-05 16:38:04,411 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-05 16:38:04,461 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-05 16:38:04,464 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-05 16:38:04,556 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-05 16:38:04,558 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-05 16:38:04,607 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-05 16:38:04,610 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-05 16:38:04,664 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-05 16:38:04,681 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-05 16:38:04,682 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-05 16:38:04,684 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-05 16:38:04,748 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-05 16:38:04,749 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-05 16:38:04,849 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-05 16:38:05,347 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 40mS.
+2024-01-05 16:38:05,354 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-05 16:38:05,528 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-05 16:38:06,903 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1547mS.
+2024-01-05 16:38:06,906 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-01-05 16:38:06,907 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-05 16:38:49,674 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-05 16:39:00,581 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-05 16:39:12,905 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-05 16:39:15,441 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-05 16:39:21,391 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-05 16:39:23,562 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 691770664 Bytes (1073741824)
+2024-01-05 16:39:25,069 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 710645032 Bytes (1073741824)
+2024-01-05 16:39:26,490 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 743673128 Bytes (1073741824)
+2024-01-05 16:39:26,681 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-05 16:39:26,681 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-05 16:39:26,681 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-05 16:39:26,681 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-01-05 16:39:26,681 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-05 16:39:26,681 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-05 16:39:26,681 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-05 16:39:26,681 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-05 16:39:26,681 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-01-05 16:39:26,682 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-01-05 16:39:27,035 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp_save
+2024-01-05 16:39:27,120 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/license.tmp
+2024-01-05 16:39:27,219 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp_save
+2024-01-05 16:39:27,309 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/gpio.tmp
+2024-01-05 16:39:27,859 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c_save
+2024-01-05 16:39:27,960 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_it.c
+2024-01-05 16:39:27,961 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h_save
+2024-01-05 16:39:28,012 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_it.h
+2024-01-05 16:39:28,015 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c_save
+2024-01-05 16:39:28,102 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/stm32f3xx_hal_msp.c
+2024-01-05 16:39:28,103 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp_save
+2024-01-05 16:39:28,152 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/MXTmpFiles/system.tmp
+2024-01-05 16:39:28,155 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-01-05 16:39:28,209 [INFO] CodeEngine:335 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/stm32f3xx_hal_conf.h
+2024-01-05 16:39:28,226 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-05 16:39:28,226 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-05 16:39:28,229 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h_save
+2024-01-05 16:39:28,285 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Inc/main.h
+2024-01-05 16:39:28,287 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c_save
+2024-01-05 16:39:28,380 [INFO] CodeEngine:279 - Generated code: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsistant/Core/Src/main.c
+2024-01-05 16:39:28,869 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 37mS.
+2024-01-05 16:39:28,877 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-05 16:39:29,060 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-01-05 16:39:30,363 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1484mS.
+2024-01-05 16:39:30,366 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-01-05 16:39:30,368 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
