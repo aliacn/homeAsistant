@@ -60,7 +60,7 @@ uint32_t pirValue;
 uint32_t pMillis;
 uint32_t val1 = 0;
 uint32_t val2 = 0;
-uint16_t distance  = 0;
+uint32_t distance  = 0;
 uint32_t x = 0;
 /* USER CODE END PV */
 
@@ -119,7 +119,7 @@ int main(void)
   HAL_TIM_Base_Start(&htim1);
   HAL_GPIO_WritePin(TRIG_PORT, TRIG_PIN, GPIO_PIN_RESET);
 
-  HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_3);
+  HAL_TIM_PWM_Stop(&htim2, TIM_CHANNEL_3);
 
   //HAL_ADC_Start (&hadc1);
 
@@ -133,8 +133,8 @@ int main(void)
   Lcd_cursor(&lcd,0,4);
   Lcd_string(&lcd,"Ali ACAN");
   Lcd_cursor(&lcd,1,0);
-  Lcd_string(&lcd," Mikro İslemci");
-  HAL_Delay(1000);
+  Lcd_string(&lcd," Mikro Islemci");
+  HAL_Delay(1800);
   Lcd_clear(&lcd);
   Lcd_cursor(&lcd,0,9);
   Lcd_string(&lcd,"PIR :");
@@ -142,6 +142,8 @@ int main(void)
   Lcd_string(&lcd,"LIGHT:");
   Lcd_cursor(&lcd,0,0);
   Lcd_string(&lcd,"D:");
+  Lcd_cursor(&lcd,0,5);
+  Lcd_string(&lcd,"cm");
 
  // HAL_ADC_Start_DMA(&hadc1,adc_values, 2);
   HAL_ADC_Start(&hadc1);
@@ -162,7 +164,7 @@ int main(void)
 	  	Lcd_cursor(&lcd,1,7);
 	  	Lcd_int(&lcd,lightValue);
 
-	  	if (lightValue>2800)
+	  	if (lightValue>2700)
 	  	{
 	  		HAL_GPIO_WritePin(GPIOA,GPIO_PIN_10,GPIO_PIN_SET);
 	  	}
@@ -198,19 +200,31 @@ int main(void)
 	  	 while ((HAL_GPIO_ReadPin (ECHO_PORT, ECHO_PIN)) && pMillis + 50 > HAL_GetTick());
 	     val2 = __HAL_TIM_GET_COUNTER (&htim1);
 
-	  	distance = (val2-val1)* 0.034/2;
-	   	Lcd_cursor(&lcd,0,3);
+	    Lcd_cursor(&lcd,0,2);
+	    Lcd_string(&lcd,"   ");
+	  	distance = (val2-val1) * 0.034/2;
+	   	Lcd_cursor(&lcd,0,2);
 	   	Lcd_int(&lcd,distance);
 
-	   	if(distance==200)
+	   	if (distance <= 5)
 	   	    {
-	   	      __HAL_TIM_SET_AUTORELOAD(&htim2, 50*2);
-	   	      __HAL_TIM_SET_COMPARE(&htim2,TIM_CHANNEL_3, 50);
+	   	        HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_3);
 
+	   	        for (x = 50; x < 100; x += 5)
+	   	        {
+	   	            __HAL_TIM_SET_AUTORELOAD(&htim2, x * 3);
+	   	            __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_3, x);
+	   	            HAL_Delay(50);
+	   	        }
+	   	    }
+	   	    else
+	   	    {
+	   	        HAL_TIM_PWM_Stop(&htim2, TIM_CHANNEL_3);
 	   	    }
 
 
-	  	HAL_Delay(50);
+	   	HAL_Delay(150);
+
 
     /* USER CODE END WHILE */
 
@@ -393,6 +407,7 @@ static void MX_TIM1_Init(void)
   /* USER CODE END TIM1_Init 0 */
 
   TIM_ClockConfigTypeDef sClockSourceConfig = {0};
+  TIM_SlaveConfigTypeDef sSlaveConfig = {0};
   TIM_MasterConfigTypeDef sMasterConfig = {0};
   TIM_IC_InitTypeDef sConfigIC = {0};
 
@@ -400,7 +415,7 @@ static void MX_TIM1_Init(void)
 
   /* USER CODE END TIM1_Init 1 */
   htim1.Instance = TIM1;
-  htim1.Init.Prescaler = 71;
+  htim1.Init.Prescaler = 79;
   htim1.Init.CounterMode = TIM_COUNTERMODE_UP;
   htim1.Init.Period = 65535;
   htim1.Init.ClockDivision = TIM_CLOCKDIVISION_DIV1;
@@ -419,6 +434,14 @@ static void MX_TIM1_Init(void)
   {
     Error_Handler();
   }
+  sSlaveConfig.SlaveMode = TIM_SLAVEMODE_RESET;
+  sSlaveConfig.InputTrigger = TIM_TS_TI1FP1;
+  sSlaveConfig.TriggerPolarity = TIM_INPUTCHANNELPOLARITY_BOTHEDGE;
+  sSlaveConfig.TriggerFilter = 0;
+  if (HAL_TIM_SlaveConfigSynchro(&htim1, &sSlaveConfig) != HAL_OK)
+  {
+    Error_Handler();
+  }
   sMasterConfig.MasterOutputTrigger = TIM_TRGO_RESET;
   sMasterConfig.MasterOutputTrigger2 = TIM_TRGO2_RESET;
   sMasterConfig.MasterSlaveMode = TIM_MASTERSLAVEMODE_DISABLE;
@@ -426,7 +449,7 @@ static void MX_TIM1_Init(void)
   {
     Error_Handler();
   }
-  sConfigIC.ICPolarity = TIM_INPUTCHANNELPOLARITY_RISING;
+  sConfigIC.ICPolarity = TIM_INPUTCHANNELPOLARITY_BOTHEDGE;
   sConfigIC.ICSelection = TIM_ICSELECTION_DIRECTTI;
   sConfigIC.ICPrescaler = TIM_ICPSC_DIV1;
   sConfigIC.ICFilter = 0;

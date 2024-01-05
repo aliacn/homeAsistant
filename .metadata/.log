@@ -1187,3 +1187,42 @@ java.io.FileNotFoundException: /Users/aliacan/STM32CubeIDE/homeAsistant/homeAsis
 
 !ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-04 22:00:35.300
 !MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-05 11:09:05.125
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 161 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-05 11:09:05.127
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-05 11:09:05.127
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 161 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-05 11:09:05.128
+!MESSAGE Existing sessions are:
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2024-01-05 11:42:35.506
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.gdb.internal.ui.actions.DsfTerminateCommand$3$1@266d629e): Status OK: unknown code=0 OK' resulted in a rejected execution exception.
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-05 11:43:27.314
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 172 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-05 11:43:27.316
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-05 11:43:27.316
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 172 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-05 11:43:27.316
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-05 11:59:45.935
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 180 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-05 11:59:45.937
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-05 11:59:45.937
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 180 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2024-01-05 11:59:45.937
+!MESSAGE Existing sessions are:
