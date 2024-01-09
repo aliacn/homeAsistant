@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="END 4"/>
+		<item key="selection" value="HAL_TIM_Base_Start"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
-			<item value="end 4"/>
+			<item value="HAL_TIM_Base_Start"/>
+			<item value="hi2c1"/>
+			<item value="htim1"/>
+			<item value="  /* USER CODE BEGIN 2 */"/>
+			<item value="/* USER CODE BEGIN PV */"/>
+			<item value="user code"/>
+			<item value="CALL"/>
+			<item value="HAL_TIM_IC_CaptureCallback"/>
+			<item value="HAL_TIM_I"/>
+			<item value="HAL_TIM"/>
+			<item value="Trigger"/>
+			<item value="define"/>
+			<item value="CLK_ENABLE()"/>
+			<item value="__HAL_RCC_ADC12_CLK_ENABLE()"/>
+			<item value="USER CODE BEGIN PV"/>
 		</list>
 		<list key="replacehistory">
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="684"/>
-		<item key="DIALOG_Y_ORIGIN" value="431"/>
+		<item key="DIALOG_X_ORIGIN" value="908"/>
+		<item key="DIALOG_Y_ORIGIN" value="399"/>
 		<item key="DIALOG_WIDTH" value="336"/>
 		<item key="DIALOG_HEIGHT" value="402"/>
 		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>

@@ -134,7 +134,7 @@ int main(void)
   Lcd_string(&lcd,"Ali ACAN");
   Lcd_cursor(&lcd,1,0);
   Lcd_string(&lcd," Mikro Islemci");
-  HAL_Delay(1800);
+  HAL_Delay(2200);
   Lcd_clear(&lcd);
   Lcd_cursor(&lcd,0,9);
   Lcd_string(&lcd,"PIR :");
@@ -145,14 +145,8 @@ int main(void)
   Lcd_cursor(&lcd,0,5);
   Lcd_string(&lcd,"cm");
 
- // HAL_ADC_Start_DMA(&hadc1,adc_values, 2);
   HAL_ADC_Start(&hadc1);
-   //     for ( int x = 1; x <= 200 ; x++ )
-     //   {
-       //   Lcd_cursor(&lcd, 0,12);
-         // Lcd_int(&lcd, x);
-         // HAL_Delay (1000);
-       // }
+
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -162,9 +156,11 @@ int main(void)
 	    HAL_ADC_PollForConversion (&hadc1,1000);
 	  	lightValue = HAL_ADC_GetValue (&hadc1);
 	  	Lcd_cursor(&lcd,1,7);
+	    Lcd_string(&lcd,"     lux");
+	  	Lcd_cursor(&lcd,1,7);
 	  	Lcd_int(&lcd,lightValue);
 
-	  	if (lightValue>2700)
+	  	if (lightValue>2900)
 	  	{
 	  		HAL_GPIO_WritePin(GPIOA,GPIO_PIN_10,GPIO_PIN_SET);
 	  	}
