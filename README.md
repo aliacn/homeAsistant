@@ -12,7 +12,7 @@ Bu proje, bir STM32F4 mikrodenetleyiciyi kullanarak ışık yoğunluğunu, harek
 
 **Kod Yapısı:**
 
-* **İnicializasyon:**
+* **Başlangıç:**
     * Periferleri yapılandırır (ADC, I2C, zamanlayıcılar, USART, LCD).
 * **Ana Döngü:**
     * Sensör değerlerini sürekli olarak okur.
@@ -52,30 +52,3 @@ Bu proje, bir STM32F4 mikrodenetleyiciyi kullanarak ışık yoğunluğunu, harek
 **Ders:**
 
 * Mikrodenetleyiciler
-
-**Öğrenci:**
-
-[Ad Soyad]
-
-**GitHub Adresi:**
-
-[GitHub adresi]
-
-**İletişim Bilgileri:**
-
-[E-posta adresi]
-
-**Lisans:**
-
-[Lisans adı]
-
-Bu read.me dosyası, projeyi profesyonel bir şekilde tanıtmak için gerekli bilgileri içerir. Dosya, projenin amacını, özelliklerini, kodun yapısını, açıklığını, modülerliğini ve verimliliğini açıkça belirtir. Ayrıca, proje için gerekli donanım ve yazılımı, ders ve öğrenci bilgilerini, iletişim bilgilerini ve lisansı içerir.
-
-Dosyayı daha da geliştirebilmek için aşağıdaki değişiklikleri yapabilirsiniz:
-
-* **Projenin hedeflerini ve kapsamını daha ayrıntılı olarak açıklayın.**
-* **Kodun nasıl kullanılacağına dair talimatlar sağlayın.**
-* **Projenin performansını test edin ve sonuçları belgeleyin.**
-* **Projeyi daha geniş bir izleyici kitlesine tanıtmak için görseller ekleyin.**
-
-Bu değişiklikleri yaparak projenizin daha profesyonel bir şekilde tanıtılmasını sağlayabilirsiniz.
